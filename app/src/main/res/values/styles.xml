@@ -1,0 +1,6 @@
+<resources>
+    <style name="ShapeAppearanceOverlay.MyApp.ImageProfile" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- 50% means a circular shape -->
+    </style>
+</resources>
